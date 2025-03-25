@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Scanner;
 
 /**
- *
+ *mandarina
  * @author ANDRES FELIPE
  */
 public class MananaPruebas {
